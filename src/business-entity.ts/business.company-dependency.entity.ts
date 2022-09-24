@@ -8,7 +8,7 @@ export class BusinessCompanyDependency {
   zone_id: number;
   address: string;
   latitude: number;
-  longitude: number;
+  longitude: number; 
 }
 
 /* ----------------------------------- */
