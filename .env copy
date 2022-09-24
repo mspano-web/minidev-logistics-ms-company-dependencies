@@ -1,0 +1,9 @@
+#Application configuration
+ZONES_PORT = 5673
+ZONES_HOST = localhost
+ZONES_USER = admin
+ZONES_PASSWORD = admin 
+
+ZONES_QUEUE_INPUT = queue_zones_input
+
+DATABASE_URL="postgresql://postgres:root@localhost:5432/Logistics?schema=public"
